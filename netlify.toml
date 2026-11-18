@@ -3,5 +3,5 @@ publish = "."
 
 [[redirects]]
 from = "/"
-to = "/MZ_Solution_Brand_Guidelines.html"
+to = "/MZ Solution Brand Guidelines.html"
 status = 200
