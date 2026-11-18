@@ -1,0 +1,7 @@
+[build]
+publish = "."
+
+[[redirects]]
+from = "/"
+to = "/MZ_Solution_Brand_Guidelines.html"
+status = 200
